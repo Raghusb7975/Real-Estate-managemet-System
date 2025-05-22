@@ -1,20 +1,4 @@
-How to run the Real Estate Management System (rems) in PHP
-
-1. Download the zip file
-2. Extract the file and copy rems folder
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-5. Create a database with name remsdb
-6. Import remsdb.sql file(given inside the zip package in SQL file folder)
-7.Run the script http://localhost/rems
-
-Login Detail for admin
-Username : admin
-Password: Test@123
-Login Details for Broker/Agent
-Username : test@gmail.com
-Password: Test@123
-Login Details for Simple User
-Username : testuser2@gmail.com
-Password: Test@123
-Note : Broker and owner module have same features
+A real estate management system using a Database Management System is designed to streamline and optimize the operations
+involved in managing real estate properties. Real Estate Management System is an Estate Agent & Property Management System is a
+user friendly and property manager for real estate Expectation. Save time and sell more by empowering to easily keep track of leads,
+manage listings, and market to new prospects.
